@@ -11,4 +11,4 @@ git is a version control system
 merge no ff
 这是我的同步测试2....
 这是我的同步测试
-
+我在台机上进行测试。
